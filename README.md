@@ -1,2 +1,4 @@
 # alirashed
-Personal website, using FLask and Python. Moving from hello world, to a basic 'about me' website with my resume.
+Personal website, using FLask and Python. 
+
+To-do: upload resume, picture, link to github.
